@@ -3,7 +3,7 @@
 **How to Open Files**<br>
 1. Download the Zip File<br>
 2. Extract Files<br>
-3. Open the landing.html file<br><br>
+3. Open the index.html file<br><br>
 
 **How to Play:** <br>
 1. Press **Start** to begin.<br>
