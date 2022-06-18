@@ -21,3 +21,5 @@
 - Trivia Questions
 - Lifelines (50-50, Call a Friend, and Audience Vote)
 - Timer
+
+**You can also access the webpage using this [link.](https://kristophercalpe.github.io/CS111-BSCS3A-G1/)**
