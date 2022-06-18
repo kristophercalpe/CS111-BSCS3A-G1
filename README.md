@@ -14,7 +14,7 @@
 **Call a Friend** - Call somebody for help!<br>
 **Ask the Audience** - The audience will vote for which answer they believe is right.<br>
 
-#Features
+# Features
 - Level difficulty
 - Randomized questions
 - Sound effects
