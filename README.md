@@ -6,10 +6,10 @@
 3. Open the landing.html file<br><br>
 
 **How to Play:** <br>
-Press **Start** to begin.<br>
-You are given 30 seconds per question to select the correct answer.<br>
-Answer all questions correctly and you will become a millionaire!<br>
-Answer any incorrectly and you lose all the money you've earned.  <br>
+1. Press **Start** to begin.<br>
+2. You are given 30 seconds per question to select the correct answer.<br>
+3. Answer all questions correctly and you will become a millionaire!<br>
+4. Answer any incorrectly and you lose all the money you've earned.  <br><br>
 **50:50**- Two of the incorrect answers will be revealed<br>
 **Call a Friend** - Call somebody for help!<br>
 **Ask the Audience** - The audience will vote for which answer they believe is right.<br>
