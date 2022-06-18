@@ -13,3 +13,11 @@
 **50:50**- Two of the incorrect answers will be revealed<br>
 **Call a Friend** - Call somebody for help!<br>
 **Ask the Audience** - The audience will vote for which answer they believe is right.<br>
+
+#Features
+- Level difficulty
+- Randomized questions
+- Sound effects
+- Trivia Questions
+- Lifelines (50-50, Call a Friend, and Audience Vote)
+- Timer
